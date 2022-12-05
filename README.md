@@ -1,4 +1,4 @@
-# Create-React-App2 !!!!
+# Create-React-App2 :)
 
 ## Initialisation du projet avec CRA
 
