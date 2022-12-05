@@ -9,12 +9,8 @@ ReactDOM.render(
   <React.StrictMode>
     <Router>
       <Header />
-      <Route path="/">
-        <Home />
-      </Route>
-      <Route path="/survey">
-        <Survey />
-      </Route>
+      <Home />
+      <Survey />
     </Router>
   </React.StrictMode>,
   document.getElementById("root")
